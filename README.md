@@ -9,7 +9,8 @@ Todo:
 Names:
 - Oscar van Tol
 - Erik Sijnja
--
+- Maguell Sandifort
+- Dimitri
 
 -----
 
