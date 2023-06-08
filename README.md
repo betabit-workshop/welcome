@@ -9,7 +9,10 @@ Todo:
 Names:
 - Oscar van Tol
 - Erik Sijnja
--
+- Emil Verwoerd
+- Tom Schilperoort
+
+
 
 -----
 
